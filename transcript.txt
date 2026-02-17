@@ -1,0 +1,1699 @@
+Transcript
+This transcription was automatically generated and only the names have been edited.
+
+Interviewer   0:03
+Recording.
+I think recording is started, then I would ask you again, are you OK with being with your voice being recorded and what you're doing on screen being recorded?
+
+Participant   0:23
+Yes.
+
+Interviewer   0:24
+OK, perfect. Then let's start. You can.
+I mean you have used this this web page before, so I think we can skip this, but uh, can you press start segmenting?
+And then you can log in. I have created a username for you which is Isabel and then password is HIFMB.
+
+Participant   0:48
+Isabel and it's a dot or?
+
+Interviewer   0:50
+No, no, no, just Isabel as username and password is HIFMB.
+
+Participant   0:54
+Ah, perfect. OK.
+
+Interviewer   1:00
+And then sign in. This should work, yes.
+And there you can also you can already see the demo data set and now I would just.
+Let you annotate one image from here and you can explore and do whatever you like.
+
+Participant   1:21
+OK.
+
+Interviewer   1:28
+And also, one more thing, also try to think aloud. So like whatever you want to do, what your intentions are, what you're currently doing, what you expect to happen.
+
+Participant   1:37
+2.
+OK, perfect. Excellent.
+
+Interviewer   1:44
+Is.
+
+Participant   1:47
+Excellent. So.
+Here, yeah, I am in the first page with the data sets. I can clearly see that there is no image manually annotated here.
+Right there is no one, no image in progress, reviewable and finish. So what I want to do here is to start manually annotating the the images and it's clear to me that here is there's a.
+Total of five images, which is good to know.
+So I click open and then it asks me for.
+The labels. Um.
+I'm reading the prompt.
+Excellent. So here it asked me for to if I want to create the labels now or later. I'm just going to click create the labels now because I can see from the images that are corals, right? So I'm very familiarized with that so I can.
+I know what I want from the images.
+So.
+I am going to create a label that it's a coral.
+And then.
+I want to create. Well, I'm reading the prompt right now.
+Thank you.
+Uh, perfect. Yeah. So now I know.
+That I can create labels that can be nested. So for now I'm going to add.
+A label that is called coral and then I want to add sub labels so.
+I just put the cursor in the plus sign because I think that's where the sub labels should go.
+Great. Yeah. So now I'm going to create this sublabel.
+Of the polyps.
+Well, and I think.
+That's it for from for now. That's all the things that I want to annotate. So I'm gonna create the labels. Excellent.
+So now I am in another window. Um.
+I can see again the same.
+Annotation status. From the beginning I can see the labels.
+And I can see here on the right side the data set management.
+A section where I can manage my data set models and annotations, but I guess that's when.
+Yeah, if I want to edit something, so I'm just gonna start to annotate. So I click the big button that says annotation.
+All right, so.
+First.
+Excellent. I want to annotate so I can see three corals here. I want to manually annotate them.
+I see here that I have.
+And these tools annotation tools.
+So I'm going to go ahead and use.
+One of them, which is the prompted segmentation model.
+Hmm.
+OK.
+So.
+OK, so maybe I did something.
+Wrong. OK, I'm gonna remove the annotations.
+And then whoops, some error occurred.
+
+Interviewer   6:41
+OK, maybe to intervene here. So you see this button in the middle down in the image.
+
+Participant   6:51
+Uh, OK.
+
+Interviewer   6:52
+You have to click this and then it creates the mask.
+
+Participant   6:55
+Hmm, OK, I didn't see that I.
+
+Interviewer   6:59
+Oh, good.
+
+Participant   7:02
+Yeah. OK. Uh, OK, perfect. Yeah, so.
+But then I see that it's, uh, the tissue of the coral. It's not fully selected, right? So what I'm gonna go ahead is try.
+I'm gonna just reject all the annotations and then start from the beginning, but now I'm gonna put this instant mode tool and see what happens.
+Oh, that's what I wanted to see. Perfect. So now I have the core selected.
+
+Interviewer   7:37
+He.
+
+Participant   7:45
+With just one click.
+I have another call selected with just one click.
+And then excellent, so maybe.
+I'm just gonna.
+Perfect.
+So now what I'm gonna try.
+It's too.
+Edit the dots over here.
+Maybe just to select the tissue.
+Because I am only interested in the tissue, right?
+So.
+Excellent. Um.
+Edit contour. Perfect. I'm gonna save it. Yeah, that's good enough.
+And let's see for the other one.
+Sign label, edit that in the control.
+OK.
+Mhm.
+Um, fixate.
+Yeah, goodness.
+And then that's one.
+Me.
+Oh, I see that I am in focus mode.
+Gonna click exit for this mode if I'm.
+I'm just gonna edit.
+Here is to.
+Probably the contract probably there is a better way to do it, or a faster way to do it.
+In the next month.
+
+Interviewer   10:15
+OK, so you said you want a faster way to edit the contours manually. Like what do you expect?
+
+Participant   10:25
+So excellent. So what I would expect?
+It's that I have.
+And.
+Like some type of.
+Like a pen, something to to manually select that area you know.
+
+Interviewer   10:53
+Mhm.
+
+Participant   10:54
+So it's not gonna be like an instant mode because I will still have to select or for example the rectangle, the rectangle tool. So I think.
+
+Interviewer   11:07
+OK, so you can for the rectangle tool you just have to click and then drag so then it draws the rectangle.
+
+Participant   11:16
+OK, perfect. OK, I'm gonna try that.
+
+Interviewer   11:18
+Yes.
+You can try to reject the annotations and see if it works better with the rectangle.
+
+Participant   11:28
+OK, perfect. So I'm gonna reject this one and then can't see.
+Beautiful.
+OK.
+Oops.
+
+Interviewer   11:53
+There's also the refinement mode where you double click the object and then you can add prompts again to refine. So here you are in focus mode and if you double click you can refine.
+
+Participant   11:53
+It's.
+Yeah.
+Mm.
+Uh, OK.
+
+Interviewer   12:11
+So.
+
+Participant   12:11
+I double click.
+OK. And then how can I add more?
+
+Interviewer   12:20
+Let me, uh, let me just.
+Choice something. Can you press escape on?
+Or exit is focus mode. If you right click an annotation, there's a context menu and there you can also say refine object for example.
+
+Participant   12:38
+Um.
+
+Interviewer   12:40
+And now you can add more annotations to it, like you can add prompts, points to it or boxes.
+
+Participant   12:49
+Mm.
+
+Interviewer   12:51
+Now you can try to maybe just get the tissue.
+
+Participant   13:02
+But it is gonna add to this one.
+
+Interviewer   13:06
+Um.
+No, it's not gonna add to this one. This this retraws the previous one.
+
+Participant   13:14
+Uh, OK.
+OK, OK, OK, OK, I see. But for example.
+
+Interviewer   13:27
+You could also place negative points by right-clicking. So if you right-click somewhere, there should be like a red point and then it will not include that.
+
+Participant   13:29
+That's it.
+Hmm, OK, OK in refine object.
+
+Interviewer   13:46
+Yeah, in general you can use it.
+Like if you yeah, see now.
+
+Participant   13:54
+Mhm.
+OK.
+And for example, why don't I do this?
+Then.
+
+Interviewer   14:20
+Maybe put uh one more positive prompt as well somewhere.
+
+Participant   14:25
+Uh, positive.
+
+Interviewer   14:28
+Yeah, like a normal click in the center of the coral, maybe the tissue.
+
+Participant   14:36
+Mm.
+
+Interviewer   14:36
+Now you have to refresh the page. OK, that's control R maybe.
+
+Participant   14:39
+Oh.
+
+Interviewer   14:42
+Or like this, yeah, so.
+
+Participant   14:43
+OK.
+Thanks.
+OK, let's try it again.
+
+Interviewer   14:52
+So double click. You can double click or right click.
+If you normal click it, it will go into focus mode, but you need to be in refinement mode.
+
+Participant   15:00
+Yeah.
+So you click here.
+
+Interviewer   15:10
+Maybe put just one -1 or two there and then run it again.
+
+Participant   15:16
+OK.
+Oh, excellent. Perfect.
+This is what I want.
+
+Interviewer   15:25
+So is is this what you were looking for?
+
+Participant   15:28
+Yes.
+Yes, this is exactly what I was looking for and there is another. For example in the other version there was another tool like to manually select the contour.
+Not with the triangle.
+But to let's say do a Polygon.
+
+Interviewer   15:55
+Oh.
+Or the prompting you mean?
+
+Participant   16:01
+Yeah.
+
+Interviewer   16:04
+OK.
+
+Participant   16:04
+All booked.
+
+Interviewer   16:06
+So would you prefer to prompt with a Polygon?
+
+Participant   16:07
+But I guess.
+No, I think this is this is way faster.
+This is way faster, but I was looking for that because that's what I used to. Yeah, what I used in the past. But no, this is way better and faster to be honest. So I'm just gonna what I really like about this is that.
+
+Interviewer   16:26
+Yeah.
+
+Participant   16:35
+I can see here the area perimeter and like some of the features that are important to me, so I really like that.
+
+Interviewer   16:49
+Hi.
+
+Participant   16:50
+Yeah, this is perfect.
+Oh, and I really like that it's highlighted which object it is so.
+
+Interviewer   16:54
+Right.
+
+Participant   17:00
+Yeah, excellent. So basically I'm happy, so I'm just gonna.
+Accept all because I'm happy. Oops.
+
+Interviewer   17:11
+Just need to log in again.
+
+Participant   17:13
+Mhm.
+Excellent. Oh, and I see now that there's one in progress. Excellent.
+So if it's on, I'm just gonna.
+Start and then.
+I'm gonna put mark as fully annotated because I think it's good.
+
+Interviewer   17:48
+But you only annotated the correlation. Now you haven't annotated the the polyps yet, right?
+
+Participant   17:55
+Other points. OK, OK, OK, I have to look, yes.
+
+Interviewer   17:57
+But go ahead, you wanted to do something before with the accept, so you can continue to do that.
+
+Participant   18:05
+OK.
+Excellent.
+Perfect, yeah.
+That's what I wanted to do, like to see the labels.
+
+Interviewer   18:19
+OK.
+
+Participant   18:19
+Perfect.
+Excellent. So now um.
+I see that if I want to annotate another one.
+Here it's like an error. I'm gonna just click on that because I expected that there is another image coming and yes it is. So I'm just gonna try.
+
+Interviewer   18:43
+One question here, do you like usually before you annotate the polyps, annotate the corals on each image or?
+
+Participant   18:55
+And.
+Yes, because sometimes we need the surface area for.
+For other type of data analysis, for a downstream data analysis that it's independent from this, for example with these fragments, I mean we strat, I don't know several.
+We measure several things, right? But we have always to normalize by surface area, so sometimes we don't have time to do the analysis of the polyps.
+
+Interviewer   19:39
+Mhm.
+
+Participant   19:39
+But we calculate the surface area because otherwise we wouldn't be able to normalize our other measurements, right?
+
+Interviewer   19:51
+OK.
+
+Participant   19:53
+Yeah. So that's usually the, yeah, the pipeline, right. So you take the picture and then you measure all of these things and then with the pictures you do the surface area.
+Yeah.
+To kind of feed, yeah, to normalize all of your other metrics, because if you don't have surface area then you cannot do anything.
+
+Interviewer   20:18
+OK, so but in your annotation process you would also go ahead and then look at every image, just annotate the corals and after you've done that you would go ahead and analyze deeper.
+
+Participant   20:19
+So yeah.
+Correct.
+
+Interviewer   20:32
+OK, well, yeah, let's continue with this image. Then here you can go ahead and annotate the corals again, but maybe we can try the completion model this time as well.
+
+Participant   20:47
+OK.
+
+Interviewer   20:47
+I see already.
+I've annotated 2 corals.
+
+Participant   20:53
+Yeah, this is perfect. I mean, OK, let's see.
+
+Interviewer   20:57
+Yeah, it's it's false.
+
+Participant   21:06
+Um.
+OK, I just wanted to see.
+It's ready. OK, so now I selected.
+Completion.
+Model.
+Oh, OK, well, I already did this, right?
+
+Interviewer   21:37
+Yes, OK, so there's actually a misunderstanding here. On the left it just shows you which models you have selected for the for the service, but.
+The run AI segmentation button in the in the bottom of the screen it just refers to the prompted segmentation. For the completion you would have to right click an object and then select suggest similar instances. But since you now already have annotated all the correlates on the image, maybe.
+
+Participant   22:08
+Mhm.
+Yeah.
+
+Interviewer   22:12
+We checked two of them and then see.
+For the other two, for the other one, if it works, so you can right-click this coral, the one that you already annotated.
+
+Participant   22:22
+Uh, oops. Uh, OK.
+
+Interviewer   22:25
+You can ress control C and then it will undo your annotation.
+
+Participant   22:33
+Uh, command C.
+
+Interviewer   22:36
+Yeah, or control. I don't know. Yeah, control, control C.
+
+Participant   22:41
+And we'll see.
+
+Interviewer   22:42
+Come on.
+Does it not work?
+
+Participant   22:45
+No, maybe in mag. Yeah, I'm just. All right, so here.
+
+Interviewer   22:46
+Then just, yeah.
+Let's reject this OK.
+
+Participant   22:55
+Suggest similar instances.
+
+Interviewer   23:03
+OK, unfortunately did not work for this one. OK, actually right click the coral and label it as a coral and then try again.
+
+Participant   23:08
+OK, OK.
+Oh, wow!
+Nice.
+Um, this is a cool feature.
+OK, OK, but I see here that I have to be careful because I have another right annotation.
+
+Interviewer   23:45
+Mhm.
+
+Participant   23:45
+It it re annotated, but this is perfect. Excellent.
+So now I could.
+Basically refine.
+Find the object or edit control.
+Wow, perfect. Yeah, that's what I want.
+And then.
+This is fun. Yeah, it's cool.
+This one is done, so yeah, we're just gonna set.
+Excellent.
+
+Interviewer   24:42
+Hey, now let's try for the polyps here. So you can you have already seen the focus mode. If you click once it will put you into focus mode and here you can annotate inside the coral again.
+
+Participant   24:49
+OK.
+Mmm.
+Yeah, I think it's good anymore.
+We don't look this is not a quoral.
+Mhm.
+Um.
+Oops, it's too small. I think I need to see.
+No, I think it's good.
+Let's see.
+
+Interviewer   26:03
+It's in refinement mode, so you have to press escape first.
+
+Participant   26:07
+Yeah.
+
+Interviewer   26:10
+If you right click the objects, you can also give them a label. I think the other labeling is broken.
+
+Participant   30:16
+I would like to because for these ones I guess I mean it does a really good job, but for example these ones that are on the side.
+Right.
+Let's run it. You know it's harder to.
+To get.
+Interviewer   30:39
+Yeah, OK, so for like cases where it's not that easily visible, you would wish for a manual tool back.
+Participant   30:41
+So.
+Yes, yes.
+Yeah.
+Interviewer   30:55
+OK, maybe we can try something because actually I just changed this code before we set it up today. Can you open up the next image?
+Participant   31:04
+Mhm.
+Of course. Uh, OK.
+Interviewer   31:11
+Just press the the arrow in the top right.
+OK, now you can zoom in and try to annotate a polyp here directly without.
+Participant   31:21
+Mhm.
+terviewer   31:28
+Annotating the the coral first.
+
+Participant   31:31
+All right.
+Mm mhm.
+
+Interviewer   31:41
+Do you think this is this? I think this performs better actually, because otherwise when it's in focus mode, it will actually just look at that cut out and it will not consider the whole image, but it seems that this model works better.
+
+Participant   31:49
+Yeah.
+
+Interviewer   31:59
+When you consider the whole image.
+
+Participant   32:01
+Oh yeah, yeah, yeah, yeah. It runs way better.
+
+Interviewer   32:04
+So are you satisfied with this now or?
+
+Participant   32:06
+Let's try with.
+Yeah, with this one, yes.
+Yes, yes.
+
+Interviewer   32:14
+Is this is OK as well?
+
+Participant   32:16
+Look, yeah, yeah, this is what I wanted. Like, you know, on the sides, I mean, oops.
+I click probably.
+But yeah, that's what I wanted to see.
+
+Interviewer   32:39
+OK, then I would.
+Ask you to open this one again.
+
+Participant   32:49
+This this one.
+
+Interviewer   32:50
+The one where you had lots of polyps annotated. This one's fine I guess as well, so.
+
+Participant   32:57
+Mhm.
+
+Interviewer   33:00
+Would you manually annotate all of the the polyps now, given what you know about the tool?
+
+Participant   33:10
+I will, yes, well.
+
+Interviewer   33:11
+Yeah.
+
+Participant   33:15
+I will do it like this, yes.
+
+Interviewer   33:19
+OK, do you wanna try out the completion?
+
+Participant   33:25
+Yes.
+This ones and then.
+Uh, suggest similar instances.
+
+Interviewer   33:44
+Right.
+Participant   33:47
+Maybe here it didn't work.
+This.
+Yeah, I think.
+I'm seeing.
+Interviewer   34:14
+What do you think is happening right now?
+
+Participant   34:19
+I don't think it's detecting.
+Any other polyps?
+Here.
+Interviewer   34:30
+Yeah.
+Participant   34:31
+We can see it working over here, but it's just not prompting anything so I will continue my my workflow like this.
+
+Interviewer   34:47
+Would you now retry the completion again or how would you proceed?
+
+Participant   34:54
+Of course.
+You.
+So just.
+
+Interviewer   35:02
+I mean, now you know that it sometimes doesn't return or a lot of times doesn't return anything. Would you still consider using this?
+Or like trying it out.
+
+Participant   35:15
+For the polyps, For the polyps, no. But for the surface area, yes.
+
+Interviewer   35:24
+Alright, so.
+
+Participant   35:28
+I will maybe.
+I don't know why it didn't work.
+
+Interviewer   35:38
+There's one more thing that we can try. You can shift click multiple objects to select multiple. So if you hold shift and click them, it should highlight multiple of them and then you can try to run it again.
+And you right click and suggest simple instances.
+
+Participant   36:06
+Mm.
+
+Interviewer   36:07
+OK, but it still doesn't find anything this. I already anticipated this as I tried it out myself. Sometimes it does find anything, so maybe we try a different image so that you can also see.
+
+Participant   36:09
+Mm-hmm.
+Mm-hmm.
+
+Interviewer   36:23
+And how it looks when it works.
+
+Participant   36:26
+Perfect.
+
+Interviewer   36:28
+Maybe, yeah.
+
+Participant   36:28
+But I'm happy with this one. I mean this Pollix segmentation.
+
+Interviewer   36:33
+Sleep.
+
+Participant   36:34
+That it's not on focus mode. I think it's way better for sure.
+
+Interviewer   36:41
+So focus mode you think should be improved, right?
+
+Participant   36:48
+Alright, so I'm gonna.
+Yes.
+
+Interviewer   36:55
+You can try on the coral that's at the bottom. You can try to annotate a polyp and run the the completion again and we can see if it works.
+
+Participant   37:07
+Mm.
+OK.
+
+Interviewer   37:11
+Oh, I meant a polyp. You have you have already seen it for the coral, so.
+
+Participant   37:13
+Uh, OK.
+Yeah, I'm happy. I'm happy with that one.
+
+Interviewer   37:19
+Yeah.
+
+Participant   37:22
+OK, so this one this.
+It.
+Oops.
+Oops.
+Hold on.
+I should see.
+
+Interviewer   37:39
+I think you run your whole spacebar and then you can track the image, yeah.
+
+Participant   37:47
+Mm.
+Pen mold. I like this pen mold, this new pen mold.
+OK, for example here remove all annotations. No I want to deselect this too.
+
+Interviewer   38:04
+Currently only control C works or refreshing the page.
+
+Participant   38:08
+Yeah, but I don't know.
+
+Interviewer   38:10
+Control C doesn't work on Mac, then you have to refresh.
+
+Participant   38:13
+Yeah, OK. Well, I can phone and then.
+
+Interviewer   38:19
+Or you yeah, you can just run it and then see.
+
+Participant   38:26
+Then.
+Yeah.
+Right.
+Wow, perfect. Yeah, it's pen note.
+All right, so.
+Mhm.
+
+Interviewer   39:12
+You can also shift click all of them and then assign the label to all of them.
+
+Participant   39:16
+Um.
+Excellent. Um, that's what I wanted to work with.
+So let's see.
+
+Interviewer   39:29
+OK, it still doesn't work. It's unfortunate.
+
+Participant   39:32
+Mm-hmm. Maybe with another image. Maybe I can go another.
+
+Interviewer   39:34
+Yeah.
+
+Participant   39:37
+So another one and then seeing.
+
+Interviewer   39:39
+Maybe this one.
+
+Participant   39:42
+No use here.
+Yeah.
+
+Interviewer   39:53
+I think 2:00 would already be enough if it works.
+
+Participant   39:55
+Mm-hmm.
+
+Interviewer   40:06
+No, nothing.
+OK, that's OK though, so um.
+Um.
+You know how this worked for the chorus and you said for the chorus you would definitely use it.
+
+Participant   40:21
+Yes.
+Yes.
+
+Interviewer   40:23
+So if you are.
+If it was better and it worked for this, or like how good should it have to be for you to use it for the Polyp annotation as well?
+
+Participant   40:40
+I mean if it can.
+Select. I mean, I don't know, 5 at least polyps. It would be nice.
+But.
+
+Interviewer   40:55
+OK.
+
+Participant   40:58
+I mean, it's super difficult, right? With this type of images I guess.
+Because.
+I don't know. They all look. There is no clear boundaries. I don't know why it's not working. Or can you just clarify what do you mean by how would would it like?
+
+Interviewer   41:24
+OK, like.
+
+Participant   41:24
+Would I like it to be?
+
+Interviewer   41:26
+Yes, so.
+Thinking about what it should output for you to be for you to use it, you know. So if it like outputs one mask, one more polyp that is perfect, would you already use it? Or if it output it like I don't know.
+
+Participant   41:37
+Mhm.
+
+Interviewer   41:47
+All polyps, but they are not good, like not pixel perfect annotations. Would you still use it?
+
+Participant   41:52
+Exactly, exactly. No, I I will see. I mean, if I have like a couple more, I will use it for sure.
+
+Interviewer   42:01
+Couple more, but they should be qualitatively good.
+
+Participant   42:07
+Yeah, yeah, because I mean.
+
+Interviewer   42:08
+Alright.
+
+Participant   42:11
+Yeah.
+
+Interviewer   42:14
+OK.
+Right, then let me quickly have a look at my script here. How easy do you think this was to use? Like starting with the the prompted segmentation? How easy do you think it is to use this?
+
+Participant   42:32
+The prompt segmentation like this.
+
+Interviewer   42:36
+Putting no, no, no, putting the bounding boxes and the dots and then getting the mask annotation.
+
+Participant   42:41
+No, very easy. Yeah, extremely easy, I would say.
+
+Interviewer   42:45
+All right.
+So from 1:00 to 7:00 where one is very easy and seven is very hard.
+
+Participant   42:54
+Let's say 6.
+
+Interviewer   42:59
+You mean 2? Because one is very easy, 7 is very OK OK two good.
+
+Participant   43:03
+Oh, yeah, sorry, sorry. Two. Yes, two. OK.
+
+Interviewer   43:08
+Um.
+
+Participant   43:08
+2.
+
+Interviewer   43:11
+Are you? Are you satisfied with the predictions that this does the bounding boxes and the points?
+
+Participant   43:18
+Yes.
+
+Interviewer   43:23
+OK.
+Can you describe what you think that the prompted segmentation tool does?
+
+Participant   43:36
+Well, it is.
+It selects.
+The area that I want to delimit and annotate.
+Automatically basic.
+
+Interviewer   43:54
+OK.
+Do you think there's like anything about this that could be done better?
+
+Participant   44:05
+Um.
+Yeah, so.
+But maybe this is this comes in the documentation part 'cause I didn't read it the documentation, so I didn't know how to put the rectangle or drag the rectangle.
+
+Interviewer   44:29
+Mhm.
+
+Participant   44:30
+So.
+Yeah, that was not very intuitive and that's why I gave it Uh-2 and not the one because.
+Yeah.
+
+Interviewer   44:43
+OK.
+Perfect. Then for the completion or the instance discovery.
+Can you describe what you think this tool does?
+
+Participant   45:02
+This one that suggests similar instances. Oh well, so based in.
+
+Interviewer   45:03
+Yes.
+Yes.
+
+Participant   45:09
+One manual adaptation. It tries to find like similar masks automatically again.
+
+Interviewer   45:22
+Yes.
+And how satisfied are you with those predictions?
+
+Participant   45:30
+Well, for the corals.
+I am. I have a tool also.
+
+Interviewer   45:42
+Uh, you mean the two as the rating before where you rated how easy it was?
+
+Participant   45:48
+Yeah, like really good for the for the corals. It's really.
+Really good and easy.
+
+Interviewer   45:57
+And for the for the polyps.
+
+Participant   46:01
+Well, no, because it didn't work.
+
+Interviewer   46:05
+Oh yeah, so you would rate it higher for the polyps?
+
+Participant   46:10
+Yes, yes, yes.
+Interviewer   46:11
+I mean.
+If you would just rate how easy it was without rating the quality of what it outputs, what would you say from 1:00 to 7:00?
+
+Participant   46:24
+Uh at.
+A to to win easiest, right? Like, OK, yeah.
+
+Interviewer   46:32
+Yes, one is easiest, 2 is easy.
+
+Participant   46:36
+Yes.
+
+Interviewer   46:41
+Right, so for the cars very good, but for the polyps nuts.
+
+Participant   46:42
+And.
+Yes, and again these two, it's because it was not very intuitive to right click and then find the option there, right?
+But again, maybe in the documentation.
+
+Interviewer   47:00
+Mhm.
+
+Participant   47:04
+You can find it, but yeah.
+
+Interviewer   47:07
+What would be more intuitive for you?
+
+Participant   47:07
+I didn't know.
+Mm.
+I don't know, maybe here like an info for example I.
+I went to this info to see also if there was a information of how to use it like a right click or.
+Yeah, for example here information about how to.
+
+Interviewer   47:35
+OK.
+
+Participant   47:36
+How to, yeah, use it would be nice.
+Interviewer   47:42
+OK.
+Um.
+So.
+If.
+
+Participant   47:51
+Oops.
+
+Interviewer   47:53
+I I think I already answer asked this question in some way, but how would you rate the impact of this tool of the completion?
+Oh, it's, it's, it's all lowercase and then.
+
+Participant   48:06
+Wait.
+Oh.
+From.
+And what are the rates? I mean, is it like again from 1:00 to 7:00 or?
+
+Interviewer   48:27
+Uh, no. You can just like free form answer this.
+But you can also give it a rating if you want.
+Participant   48:33
+I mean for the corals, I think it will be extremely useful. It will save a lot of time.
+
+Interviewer   48:42
+OK.
+
+Participant   48:44
+Yeah.
+Interviewer   48:45
+But in the current state for the polyps you would.
+
+Participant   48:51
+Yeah, I wouldn't use it in the current state.
+
+Interviewer   48:51
+Mhm.
+Hey.
+OK, um.
+Then I think you can also like look at the other stuff that is here of the tool. I think the main part we have done, but you can also look at the at these other cards you see on the right.
+
+Participant   49:22
+OK, so.
+Let's start.
+Uh, this is excellent.
+Because here I can see like what are the images that are annotated and which ones are not.
+E.
+OK. And then I can.
+Mm-hmm. Filter. OK.
+Then I'll go to the quantifications.
+Mhm.
+I see.
+How many labels do I have and how many measurements?
+I have done.
+How many corals I have annotated and and the polyps and I mean for me this is already very useful information.
+The area.
+The perimeter, the diameter.
+Because sometimes you just have want to have like an overview of your data set without even doing a formal, you know, analysis. Just have an idea, a really quick idea of.
+
+Interviewer   50:56
+Mhm.
+
+Participant   51:03
+Of the area and this is already super useful.
+
+Interviewer   51:14
+OK.
+
+Participant   51:15
+Mm-hmm.
+Table hurricane and metrics again.
+It's very useful.
+Because sometimes, I mean I'm I'm gonna put an example I do, I don't know, I measure photosynthesis in in the corals and when I do my analysis, as I mentioned, I cannot normalize everything.
+Until I have these surface area measurements, but it takes a while right to have them. So what I usually do is just put a number in there, I don't know 10 square centimeters so I can.
+So I am able to continue to the downstream analysis and and this feature I will.
+I imagine using it.
+Precisely to refine that number that I put randomly.
+
+Interviewer   52:22
+OK.
+
+Participant   52:22
+So I can see the use already in this.
+
+Interviewer   52:32
+OK.
+
+Participant   52:32
+Mhm.
+
+Interviewer   52:34
+Do you think there's anything that could be added to this or?
+
+Participant   52:49
+I don't know, for example.
+The question that I have is this area is the units right? So is this like?
+
+Interviewer   53:01
+Mhm.
+
+Participant   53:05
+Pixels or?
+Or or what is the?
+
+Interviewer   53:11
+Yes, it's it's in pixels right now.
+
+Participant   53:14
+Hmm. OK, so.
+Maybe it's a good idea to put it there, but it's in pixels.
+
+Interviewer   53:25
+OK.
+
+Participant   53:28
+Yeah.
+
+Interviewer   53:29
+OK, then you can also see in the top right where it says export quantification. Oh all good, so you can open it again.
+
+Participant   53:34
+Oops. Oops. Oh yeah.
+
+Interviewer   53:42
+Can click this as well.
+
+Participant   53:44
+Mhm.
+
+Interviewer   53:46
+Does anything happen?
+
+Participant   53:49
+Yeah, I can see that I can export it.
+It has created an automated file name.
+
+Interviewer   54:04
+Mhm.
+
+Participant   54:06
+Which is nice, the date, which is perfect.
+Unusually.
+
+Interviewer   54:13
+So can you describe what you see because it's not in the screen sharing right now?
+
+Participant   54:19
+Oh OK yeah, so I clicked on the export notification and I see a window where I can select a window of my folder files.
+And then I can select where I want to save it and a name has been created automatically with the date on it and the name of the.
+Of the data set and then yeah, I can just click.
+Save.
+
+Interviewer   55:01
+OK, you you can also save it somewhere and open it and have a look at it.
+
+Participant   55:05
+Mhm.
+Yep.
+So we'll save it on the desktop.
+Let me just open it.
+Mhm.
+Mm.
+Recent.
+OK.
+Oops, I hope they all export it. Let me just try again.
+O when I click um.
+Save in the format it says.
+JavaScript object notation.
+
+Interviewer   56:06
+Oh really? I I cannot. I cannot see it, unfortunately, but it should be exported as a CSV file.
+
+Participant   56:07
+OK.
+Yeah.
+OK, let me try again.
+Oh, OK. No, no, no. Yeah, it's not as a CSB. It's a JSON.
+
+Interviewer   56:35
+Oh, it chasing it.
+
+Participant   56:38
+Jason.
+Yeah.
+
+Interviewer   56:42
+OK.
+So you can you can also open that and have a look at it.
+
+Participant   56:49
+Mhm, mm.
+I mean, I'm not very familiar with this.
+Format.
+
+Interviewer   57:06
+Mhm.
+Yeah, I'm sorry, this is this is probably just because our developer was debugging it because you can export it as CSV and JSON and for developers it's easier to to look at the JSON than the CSV.
+
+Participant   57:08
+It's Jason.
+OK.
+OK, OK.
+
+Interviewer   57:28
+K.
+
+Participant   57:28
+Oops, yeah so but I mean I can see that the information is there. I mean if I open it as a with the text editor I can see.
+
+Interviewer   57:30
+Well, maybe I try.
+
+Participant   57:43
+Um, that I have the area, the perimeter.
+The circularity, the diameter.
+And I see that, um, there are one.
+Well, there are.
+A few of them notations, but I cannot distinguish which ones are corals and which ones are polyps.
+As of now.
+
+Interviewer   58:18
+Mhm.
+OK, yeah, so um, it should say something like the label ID there and um.
+
+Participant   58:29
+Mhm.
+
+Interviewer   58:32
+Which might not be associated with a human readable name, actually, but there is also.
+More more fields. I think there's also like parent contour ID. Is that there?
+
+Participant   58:48
+Yeah, it's area, perimeter, circularity, Max diameter.
+And.
+No, that's it.
+
+Interviewer   59:00
+Okay. Oh.
+
+Participant   59:01
+Oh yeah, it says parent ID.
+
+Interviewer   59:03
+Yeah. Can you describe what you think that means?
+
+Participant   59:06
+Yep.
+I see. So for example if I am it current corresponds to the oops, the sub labels like you know then.
+The nested structure of the annotations, so I guess the parent ID is just.
+
+Interviewer   59:27
+Mhm.
+
+Participant   59:31
+Yeah, the parent label.
+
+Interviewer   59:35
+So uh, you think it refers to the parent label?
+
+Participant   59:36
+Right.
+To the coral.
+I think it refers to the coral.
+For example, if I am annotating the polyps.
+Which is nested on the on the, yeah, on the portal then.
+
+Interviewer   59:53
+Yeah.
+
+Participant   59:55
+I think the parent ID would be a specific coral.
+
+Interviewer   1:00:00
+A specific coral.
+Like one specific corrid that you annotated.
+Participant   1:00:07
+Yeah.
+
+Interviewer   1:00:09
+Um, do you think this is useful?
+
+Participant   1:00:11
+Oh, for sure, yes.
+Yeah.
+
+Interviewer   1:00:15
+Can you explain?
+
+Participant   1:00:17
+Yeah, well, Yep, very useful.
+Because that way we can.
+Track down the the polyps.
+Or the variability even between different corals of of the polyps sizes.
+
+Interviewer   1:00:39
+That's something that you could have that you did before.
+
+Participant   1:00:46
+Um, yes.
+
+Interviewer   1:00:49
+Right and.
+How did you do that before?
+
+Participant   1:00:57
+With this tool or in my life? Like how do I do it?
+
+Interviewer   1:01:00
+In your life, like with the tools you used before you had this tool.
+
+Participant   1:01:03
+Uh, OK.
+Well, I I write it down basically like you know, you know, Excel sheet. I have my metadata and I basically annotate.
+Yeah, the file number then.
+The coral number, coral number one and then I annotate the polyps. Would I do this manually?
+
+Interviewer   1:01:34
+Do you think this is an improvement to that?
+
+Participant   1:01:37
+Yes.
+
+Interviewer   1:01:42
+OK.
+Then we can go back. I think there's one more page we haven't looked at.
+
+Participant   1:01:50
+Mhm.
+OK, back to data set. Oh no, open.
+Here I see label management.
+
+Interviewer   1:02:07
+And then there's two that we haven't looked at, but.
+I think we can skip this one. This is just the labeling. Again, the model is what we haven't looked at yet.
+
+Participant   1:02:15
+OK.
+Yes.
+Modeled soon.
+I like the name.
+OK, I see that here are the.
+Different models that are available from.
+Prompted segmentation, the completion and the semantic segmentation.
+
+Interviewer   1:02:55
+Mhm.
+
+Participant   1:02:57
+I mean.
+The first two I've already used them.
+Right. So I see here that it has.
+Next some information.
+About it.
+
+Interviewer   1:03:18
+Mhm.
+
+Participant   1:03:20
+And then?
+I can see.
+Yeah, I can see if I Scroll down.
+I can see the semantic segmentation and I can see that I have four different models for semantic segmentation, and what I can clearly distinguish is that I can train this model.
+Models.
+You can use them to train them.
+
+Interviewer   1:03:57
+OK.
+
+Participant   1:03:58
+Like.
+
+Interviewer   1:03:58
+What do you think happens when you train them?
+Participant   1:04:04
+So.
+Basically if I click the train model, I mean I expect that I will have to annotate manually annotate a few image using the tools that are already there, so the.
+Completion and prompted segmentation.
+Yeah. So that's what I expect that it will take me to.
+
+Interviewer   1:04:34
+Then what do you think it does?
+
+Participant   1:04:41
+Well, it makes also.
+Segmentation redictions of the of the objects that I want to.
+Annotate.
+
+Interviewer   1:04:55
+So can you be or try to be a bit more specific? What do you think is the inputs to the model and what does it output? Like for example for the prompted segmentation you had the image and your prompts like the bounding boxes and points.
+Input and it output it one mask of one object. What do you think the segmentation semantic segmentation outputs?
+
+Participant   1:05:14
+Mhm.
+Um.
+So I think the input would be like all those.
+Images as well.
+And the.
+And the output would be, for example, if I the input is let's say one image with three polyps already manually annotated, right? And with that image I train them all and the output I will expect that.
+You have. If I have a database that it's has five more images, then one would be used I don't know for training and then the model will predict.
+And.
+The objects in the following four in the rest or the four images, yeah.
+
+Interviewer   1:06:18
+OK, yeah.
+That's correct. The model predicts all the labels as well, so it doesn't just predict corals, it predicts corals and polyps. But you can also just train one to only predict corals. OK.
+
+Participant   1:06:32
+Yep.
+Yeah.
+
+Interviewer   1:06:38
+Then I think.
+We're done with this.
+I have one more question so.
+Now that you have seen everything about the tool and have used it, could you describe the tool in your own words and the workflow of the tool?
+
+Participant   1:06:56
+Mhm.
+Yeah, so I guess that.
+This tool it's a tool for.
+Yeah, segmenting, segmenting images and yeah.
+I guess that's the main goal of the of the tool and.
+Yeah, using these um AI models.
+So that's how I see it and.
+The pipeline would be.
+No, you load your data, then you.
+Manually and I don't know how to say like manually annotate the data because you're.
+You're kind of using like.
+This completion segmentation and this prompt segmentation to make your manual annotation. So it is way quicker than just clicking like a lot of times around to select an object so.
+
+Interviewer   1:08:18
+Mhm.
+
+Participant   1:08:28
+Yeah, let's say semi manually annotated. I don't know semi automatic annotation and then with those annotated images and you can train.
+The models to then analyze the rest of your data set.
+
+Interviewer   1:08:53
+Hi.
+
+Participant   1:08:53
+So, yeah, hi. So that's.
+Yeah, an overall pipeline, right?
+
+Interviewer   1:09:00
+Yeah. OK. Yeah, that's perfect. Um.
+Then maybe one final question is generally how?
+Oh, what do you think could be better about the tool? Not necessarily just about the models and how they perform, but general stuff.
+
+Participant   1:09:27
+Mm.
+Um, maybe?
+Hmm.
+Overall, I mean.
+Details as well or like an overall thing?
+
+Interviewer   1:09:53
+Oh, you can. You can go into as much detail as you want, but I'm just saying you don't have to only talk about the A I models. Could also be that you don't like the color of the tool or something.
+
+Participant   1:10:01
+Mhm.
+OK, no, I I really like the the the colors. Um.
+
+Interviewer   1:10:09
+Yeah.
+
+Participant   1:10:13
+But I will change. Maybe it's um. I don't know if there is um.
+
+Interviewer   1:10:33
+Mhm.
+Yeah.
+
+Participant   1:10:33
+I mean.
+I can click, I don't know, enter or space.
+Yes.
+
+Interviewer   1:10:40
+Oh, OK.
+Oh, OK.
+
+Participant   1:10:41
+To make it faster like a shortcut I would say.
+
+Interviewer   1:10:45
+OK.
+
+Participant   1:10:48
+Mhm.
+That will, yeah, make it faster, right? Because so you click and then enter and then.
+That's it, yeah.
+
+Interviewer   1:11:00
+Yeah.
+
+Participant   1:11:04
+So I would do that.
+And I haven't seen the documentation as well, but.
+But yeah, I I mean, I like it. I don't know.
+Let me think, go over it again.
+OK.
+Um.
+Um.
+Yeah, no, just make sure that the shortcuts, for example for the instant, the the suggested similar instances are.
+Clearly defined right there.
+
+Interviewer   1:12:21
+Mm.
+OK.
+
+Participant   1:12:24
+So it would be easier to access those features.
+
+Interviewer   1:12:31
+Right. OK.
+
+Participant   1:12:32
+And also for example for the drag and pan usually when when images and it's great that you can.
+Do the zoom and and a scroll. But the pan for me, it's not that intuitive. I mean, you had to tell me how to do it. So yeah.
+
+Interviewer   1:12:51
+Yeah, well, what would be more intuitive to plan?
+
+Participant   1:12:58
+Um.
+No, I think that one. It's it's good. The pan. Yeah, with the space. Yeah, I think I'm used to.
+
+Interviewer   1:13:08
+OK.
+
+Participant   1:13:17
+Probably just clicking and then dragging like.
+I have a click and then I drag it just with one click.
+
+Interviewer   1:13:27
+Yeah.
+
+Participant   1:13:28
+But.
+
+Interviewer   1:13:29
+Would you prefer to have this also here, or would you rather have the annotation immediately ready?
+
+Participant   1:13:38
+No, I would rather have the annotation immediately ready.
+
+Interviewer   1:13:42
+OK.
+
+Participant   1:13:44
+Yeah.
+
+Interviewer   1:13:48
+Good. Anything else?
+
+Participant   1:13:53
+Mm.
+Oh, like the D selection.
+Part was kind of tricky because of this.
+
+Interviewer   1:13:59
+Yeah.
+The selection of the prompts or of the objects.
+
+Participant   1:14:06
+Of the prompts because sometimes I make. I mean I make so many mistakes in.
+Selecting the object that sometimes I just want to.
+
+Interviewer   1:14:16
+Mhm.
+
+Participant   1:14:21
+Yeah, deselect that and you told me that with command C.
+
+Interviewer   1:14:29
+Yeah.
+
+Participant   1:14:29
+It's the way to go, but it doesn't work, so I mean.
+
+Interviewer   1:14:36
+Then it should be control, not command.
+
+Participant   1:14:40
+Hmm, but even with commands.
+
+Interviewer   1:14:47
+Sorry.
+
+Participant   1:14:48
+Yeah, it doesn't work with.
+Control C.
+
+Interviewer   1:14:54
+A control set.
+
+Participant   1:14:54
+You see? Oh, yeah, yeah, yeah. It works. OK, OK, OK.
+
+Interviewer   1:14:56
+What was that? Sorry. Oh, I yeah, it works good.
+
+Participant   1:14:59
+Oh, I see.
+Oh wow, life changer. Then forget my comment. Yes, OK.
+
+Interviewer   1:15:14
+OK, so anything else?
+
+Participant   1:15:14
+Yes, so.
+Wait just a minute.
+The.
+Hmm. OK, yeah, one more thing. Um.
+So I already for example in an image. I don't know if you're seeing this.
+
+Interviewer   1:15:56
+Mhm.
+
+Participant   1:15:57
+But in an image, let's say that I am done with the.
+With segment A with annotating these three corals, right?
+
+Interviewer   1:16:10
+Mhm.
+
+Participant   1:16:11
+For me, that would be an image ready to go to train.
+The.
+The deep learning models, right?
+
+Interviewer   1:16:25
+OK.
+
+Participant   1:16:28
+Bud.
+For example here I have.
+Uh, one that says status.
+That is mark as fully annotated that it's not that intuitive, right?
+
+Interviewer   1:16:50
+OK.
+
+Participant   1:16:50
+Because.
+Yeah, I don't know what this would do.
+
+Interviewer   1:16:59
+OK, so to explain, this will tell our back end that this mask is done. You don't have to add anything to it and then it can be considered for the deep learning.
+
+Participant   1:17:06
+OK.
+OK, perfect. Yeah, OK.
+
+Interviewer   1:17:13
+OK, but how would you make this more intuitive?
+
+Participant   1:17:18
+Um.
+Um.
+Mm.
+I mean, is it in the documentation?
+
+Interviewer   1:17:48
+Uh, that you have that you should mark them if they're done.
+
+Participant   1:17:51
+Mhm.
+
+Interviewer   1:17:53
+Um, yeah, I think.
+
+Participant   1:17:55
+OK. I mean, if it's there then.
+I mean, that's what I would usually do, right? I mean, just read.
+Very fast, like hey, how do I use?
+
+Interviewer   1:18:09
+Yeah.
+
+Participant   1:18:13
+The segmentation.
+
+Interviewer   1:18:16
+OK.
+
+Participant   1:18:20
+To disable.
+Start guide.
+Mhm, mhm.
+Yeah, maybe just put a a note in the documentation.
+
+Interviewer   1:18:45
+OK.
+All right then.
+Anything else?
+
+Participant   1:18:54
+Here, here.
+Then click Accept to assign a label which moves it to review status or no.
+
+Interviewer   1:19:10
+I'm not. I'm not actually sure if it's in there to be honest, but it's it's good, good to know.
+
+Participant   1:19:14
+Yeah.
+Yeah, yeah. So I will put it there. And also, I mean I mentioned, I mentioned before that how to use, how to train the models.
+
+Interviewer   1:19:18
+So I think these documentations are not final.
+
+Participant   1:19:29
+That also will be good to have it in the documentation.
+
+Interviewer   1:19:34
+OK.
+
+Participant   1:19:35
+Once, yeah, it's ready to go.
+
+Interviewer   1:19:47
+OK.
+Anything else?
+
+Participant   1:19:53
+No, that's it.
+Interviewer   1:19:56
+OK, good. Then I will end the recording here. You will still need to fill in two questionnaires. I will stay in the call with you during that and then we're done.
+
+Participant   1:20:06
+Mhm.
+
+Interviewer Transkription beendet
