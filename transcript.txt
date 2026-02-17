@@ -11,13 +11,13 @@ Yes.
 Interviewer   0:24
 OK, perfect. Then let's start. You can.
 I mean you have used this this web page before, so I think we can skip this, but uh, can you press start segmenting?
-And then you can log in. I have created a username for you which is Isabel and then password is HIFMB.
+And then you can log in. I have created a username for you which is [redacted] and then password is [redacted].
 
 Participant   0:48
-Isabel and it's a dot or?
+[redacted] and it's a dot or?
 
 Interviewer   0:50
-No, no, no, just Isabel as username and password is HIFMB.
+No, no, no, just [redacted] as username and password is [redacted].
 
 Participant   0:54
 Ah, perfect. OK.
@@ -1697,3 +1697,4 @@ Participant   1:20:06
 Mhm.
 
 Interviewer Transkription beendet
+
